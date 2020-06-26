@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Lovely cottage with stunning views
-image: /img/home-jumbotron.jpg
+image: /img/img_7671.jpg
 heading: Great coffee with a conscience
 subheading: Have a great holidy on the Great Orme
 mainpitch:
