@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Perfect Llandudno Getaway
+title: Perfect Llandudno Getaway...
 image: /img/img_7671_crop2.jpg
-heading: Stylish cottage with stunning views - Great Orme Llandudno
-subheading: The house is as beautiful as the photos - the view is even better :)
+heading: Stylish cottage with stunning views
+subheading: The house is as beautiful as the photos. The views are even better :)
 mainpitch:
   title: Welcome!
   description: >
@@ -14,13 +14,12 @@ mainpitch:
     the historic pier, cable cars, golf courses, restaurants & beaches. Slightly
     further afield you’ll find yourself in an excellent location to explore:
     historic Conwy, Snowdonia and Anglesey
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: Enjoy a great holiday in Llandudno, the Victorian seaside gem with a wealth of activities for all the family to enjoy.
+             The cottage enjoys the best of both worlds; being a short walk from town, situated on the Great Orme, with breathtaking scenery.
+             The fully equipped cottage is both cosy and stylish and is perfect for getting away from all.  
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/cottage1.jpg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
