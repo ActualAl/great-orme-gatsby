@@ -2,8 +2,8 @@
 templateKey: index-page
 title: Perfect Llandudno Getaway
 image: /img/img_7671_crop2.jpg
-heading: Great coffee with a conscience
-subheading: The house is as beautiful as the photos - the view is better :)
+heading: Stylish cottage with stunning views - Great Orme Llandudno
+subheading: The house is as beautiful as the photos - the view is even better :)
 mainpitch:
   title: Welcome!
   description: >

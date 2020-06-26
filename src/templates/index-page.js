@@ -47,7 +47,7 @@ export const IndexPageTemplate = ({
             padding: '0.25em',
           }}
         >
-          {title}
+          &quot;{title}&quot;
         </h1>
         <h3
           className="has-text-weight-bold is-size-5-mobile is-size-5-tablet is-size-4-widescreen"
@@ -60,7 +60,7 @@ export const IndexPageTemplate = ({
             padding: '0.25em',
           }}
         >
-          {subheading}
+          &quot;{subheading}&quot;
         </h3>
       </div>
     </div>
