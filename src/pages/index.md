@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Lovely cottage with stunning views
+title: Perfect Llandudno Getaway
 image: /img/img_7671_crop2.jpg
 heading: Great coffee with a conscience
-subheading: Have a great holidy on the Great Orme
+subheading: The house is as beautiful as the photos - the view is better :)
 mainpitch:
   title: Welcome!
   description: >
