@@ -16,7 +16,7 @@ mainpitch:
     historic Conwy, Snowdonia and Anglesey
 description: Enjoy a great holiday in Llandudno, the Victorian seaside gem with a wealth of activities for all the family to enjoy.
              The cottage enjoys the best of both worlds; being a short walk from town, situated on the Great Orme, with breathtaking scenery.
-             The fully equipped cottage is both cosy and stylish and is perfect for getting away from all.  
+             The fully equipped cottage is both cosy and stylish and is perfect for getting away from all.
 intro:
   blurbs:
     - image: /img/cottage1.jpg
